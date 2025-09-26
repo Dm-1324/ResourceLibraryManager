@@ -26,16 +26,22 @@ export default {
       selectedTab: 'stored-resources',
       storedResources: [
         {
-          id: 'official-guide',
-          title: 'Official Guide',
-          description: 'The official Vue.js documentation.',
-          link: 'https://vuejs.org',
+          id: 'omnifood-website',
+          title: 'Omnifood Website',
+          description: 'A modern, responsive landing page for an AI-powered food delivery service.',
+          link: 'https://dm-1324.github.io',
         },
         {
-          id: 'google',
-          title: 'Google',
-          description: 'Learn to Google.',
-          link: 'https://google.com',
+          id: 'monster-slayer-game',
+          title: 'Monster Slayer Game',
+          description: 'A simple turn-based game application built with Vue.js.',
+          link: 'https://monster-slayer-game-ten.vercel.app',
+        },
+        {
+          id: 'personal-portfolio',
+          title: 'My Portfolio',
+          description: 'A collection of personal projects, skills, and professional experience.',
+          link: 'https://dhruv-malik-portfolio.vercel.app',
         },
       ],
     }
